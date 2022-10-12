@@ -1,0 +1,26 @@
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Pokemon Drawing Prompt.exe
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Pokemon Drawing Prompt.deps.json
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Pokemon Drawing Prompt.runtimeconfig.json
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Pokemon Drawing Prompt.runtimeconfig.dev.json
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Pokemon Drawing Prompt.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Pokemon Drawing Prompt.pdb
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\PokeApiNet.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Release\netcoreapp3.1\Pokemon Drawing Prompt.csproj.AssemblyReference.cache
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Release\netcoreapp3.1\Pokemon Drawing Prompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Release\netcoreapp3.1\Pokemon Drawing Prompt.AssemblyInfoInputs.cache
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Release\netcoreapp3.1\Pokemon Drawing Prompt.AssemblyInfo.cs
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Release\netcoreapp3.1\Pokemon Drawing Prompt.csproj.CoreCompileInputs.cache
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Release\netcoreapp3.1\Pokemon Drawing Prompt.csproj.CopyComplete
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Release\netcoreapp3.1\Pokemon Drawing Prompt.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Release\netcoreapp3.1\Pokemon Drawing Prompt.pdb
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Release\netcoreapp3.1\Pokemon Drawing Prompt.genruntimeconfig.cache

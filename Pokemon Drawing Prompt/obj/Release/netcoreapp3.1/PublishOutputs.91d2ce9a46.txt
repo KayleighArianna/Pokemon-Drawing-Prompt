@@ -1,0 +1,16 @@
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Pokemon Drawing Prompt.exe
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Pokemon Drawing Prompt.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Pokemon Drawing Prompt.deps.json
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Pokemon Drawing Prompt.runtimeconfig.json
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Pokemon Drawing Prompt.pdb
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\System.Net.Http.Formatting.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Options.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.Bson.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\PokeApiNet.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Release\netcoreapp3.1\publish\System.Text.Encodings.Web.dll

@@ -1,10 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Pokemon_Drawing_Prompt.Data.Interfaces;
+using System;
 
-namespace Pokemon_Drawing_Prompt
+namespace Pokemon_Drawing_Prompt.Data
 {
-    public class PokemonScenario
+    public class PokemonScenario : IPokemonScenario
     {
         public string GetPokemonScenario(string firstPokemon, string secondPokemon)
         {

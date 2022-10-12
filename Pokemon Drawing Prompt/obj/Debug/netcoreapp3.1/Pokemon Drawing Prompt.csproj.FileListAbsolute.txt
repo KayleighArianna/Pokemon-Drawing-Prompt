@@ -23,3 +23,8 @@ C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\De
 C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Debug\netcoreapp3.1\PokeApiNet.dll
 C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\obj\Debug\netcoreapp3.1\Pokemon Drawing Prompt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kayle\source\repos\Pokemon Drawing Prompt\Pokemon Drawing Prompt\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
